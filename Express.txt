@@ -1,0 +1,11 @@
+1 1 1 0 0 123 1 qwe eqweq
+2 1 1 0 0 123 1 qwe eqweq
+3 0 10 10 1 668 4 zjk zzzzzz
+4 0 10 10 3 6622 5 zasd zzzzasdz
+6 1 10 10 0 6622 14 zasd zzzzasdz
+7 0 10 30 4 668 8 zjk zzzzzz
+8 0 10 5 0 6622 9 zasd zzzzasdz1
+9 1 1 0 0 123 1 qq qqqqq
+10 1 1 0 0 q 1 q q
+4 1 1 0 0 123 1 q q
+5 1 1 0 0 q 2 q q
